@@ -1,0 +1,7 @@
+set-doc-dir.diff
+disable-valgrind_unittest.diff
+no-jsoncheckertest.diff
+gcc7.diff
+0001-Fix-Wclass-memaccess-warnings-errors.patch
+0002-Fix-Wsign-conversion-warnings-errors.patch
+0003-Suppress-Wformat-overflow-warning-error.patch
