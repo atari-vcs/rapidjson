@@ -1,3 +1,10 @@
+rapidjson (1.1.0+dfsg2-5+apertis0) atari; urgency=medium
+
+  * Import from Debian buster.
+  * Set component to development.
+
+ -- Apertis package maintainers <packagers@lists.apertis.org>  Wed, 21 Jul 2021 12:36:57 +0100
+
 rapidjson (1.1.0+dfsg2-5) unstable; urgency=medium
 
   [ Ondřej Nový ]
